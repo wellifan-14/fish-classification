@@ -8,3 +8,4 @@ Dalam  proses  pelatihan model   klasifikasi   CNN,   Projek   ini   menggunakan
 
 - Dataset : [Link 1](https://drive.google.com/file/d/1-gkYMouqtRfol-EqKwfBG4qpKJgzaPET/view?usp=drive_link)
 - Model Hasil: [Link 2](https://drive.google.com/file/d/1bRxdTIKUDV2ftIRmJncvCGtePHzolU_w/view?usp=drive_link)
+- Laporan Jurnal: [Link 3](https://ejournal.unsrat.ac.id/v3/index.php/informatika/article/view/52013)
